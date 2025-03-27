@@ -1,9 +1,9 @@
-# Data Structures & 2D Lists (Minesweeper Project)**
+# Data Structures & 2D Lists (Minesweeper Project)
 
 ## **📌 Overview**  
 Welcome to my learning journey into **Data Structures**, where I dive deep into **2D Lists (Grids/Nested Lists)** by creating a fully functional **Minesweeper Game** in Python. This project serves as both a practical application and a personal exploration of how 2D lists can model real-world problems like game boards and image grids. Through this process, I’ve tackled nested loops, recursion, randomization, and game logic—building a solid foundation in Python’s data manipulation capabilities.
 
-🔗 **[View Full Code](https://github.com/yourusername/minesweeper)** | 🔗 **[Live Demo](#)** *(Coming soon with GUI integration!)*  
+🔗 **[View Full Code](https://github.com/GowerCampbell/minesweeper.git)** | 🔗 **[Live Demo](#)** *(Coming soon with GUI integration!)*  
 
 ---
 
