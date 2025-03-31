@@ -1,4 +1,4 @@
-# **Data Structure: 2D Lists in Python **
+# Data Structure: 2D Lists in Python 
 
 ## **📌 Introduction**  
 Welcome to this in-depth learning module on **2D Lists**—a key data structure in Python, also known as grids or nested lists. This guide takes you through everything I’ve learned about 2D lists, from their basics to their application in HyperionDev’s **Minesweeper task**. Using my own notes and examples, I’ll show you how to create, manipulate, and traverse 2D lists, culminating in a fully functional Minesweeper game. Whether you’re a beginner or refining your skills, this module will equip you with a solid understanding of 2D lists.
